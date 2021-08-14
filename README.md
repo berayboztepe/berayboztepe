@@ -1,14 +1,14 @@
 ## Hi, I am Beray. 
 
-#### I am a student of Computer Engineering at Canakkale Onsekiz Mart University. At the moment, I am in Poland for Erasmus+ Project. The university which I am studying right now is Politechnika Lubelska. I am interested in Machine Learning, Data Science. I am currently improving myself in these fields. Python is my most used language but I've also experienced in C#, C, Assembly MIPS, Matlab, Java, HTML, CSS in a basic level. Here, you may see my Python's Face recognition library project, my Lecture codes in some languages, very basic game trials such as Pong game with Python's turtle module, Quiz application with events in Java, some Xamarin mobile applications which we code in our lecture, my Coursera and Udemy Courses' codes and some projects that belong to that courses and also some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc. Also, my deep learning project (keras and tensorflow) which I did during my Erasmus+ Program.
+#### I am a student of Computer Engineering at Canakkale Onsekiz Mart University. I have finished my Erasmus+ Project in Poland. The university which I was studying is Politechnika Lubelska. I am interested in Machine Learning, Data Science, Computer Vision. I am currently improving myself in these fields. Python is my most used language but I've also experienced in C#, C, Assembly MIPS, Matlab, Java, HTML, CSS in a basic level. , , very basic game trials such as Pong game with Python's turtle module, Quiz and GUI applications in Java, some Xamarin mobile applications which we code in our lecture, my Coursera and Udemy Courses' codes and some projects that belong to that courses and also some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc. Also, deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
 
 <!--
 **berayboztepe/berayboztepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on Machine Learning, Data Science
-- 🌱 I’m currently learning Matlab, Xamarin
-
+- 🔭 Here, you may see my Python's Face recognition library project
+- 🌱 My Lecture codes in some languages
+- :seedling: 
 -->
 
 <br />
