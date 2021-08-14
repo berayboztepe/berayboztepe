@@ -1,15 +1,17 @@
 ## Hi, I am Beray. 
 
-#### I am a student of Computer Engineering at Canakkale Onsekiz Mart University. I have finished my Erasmus+ Project in Poland. The university which I was studying is Politechnika Lubelska. I am interested in Machine Learning, Data Science, Computer Vision. I am currently improving myself in these fields. Python is my most used language but I've also experienced in C#, C, Assembly MIPS, Matlab, Java, HTML, CSS in a basic level. , , very basic game trials such as Pong game with Python's turtle module, Quiz and GUI applications in Java, some Xamarin mobile applications which we code in our lecture, my Coursera and Udemy Courses' codes and some projects that belong to that courses and also some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc. Also, deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
-
-<!--
-**berayboztepe/berayboztepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a student of Computer Engineering at Canakkale Onsekiz Mart University. I have finished my Erasmus+ Project in Poland. The university which I was studying is Politechnika Lubelska. I am interested in Machine Learning, Data Science, Computer Vision. I am currently improving myself in these fields. Python is my most used language but I've also experienced in C#, C, Assembly MIPS, Matlab, Java, HTML, CSS in a basic level.
 
 
 - 🔭 Here, you may see my Python's Face recognition library project
 - 🌱 My Lecture codes in some languages
-- :seedling: 
--->
+- :seedling: Very basic game trials such as Pong game with Python's turtle module
+- :deciduous_tree: Quiz and GUI applications in Java
+- Some Xamarin mobile applications which we code in our lecture
+- My Coursera and Udemy Courses' codes and some projects that belong to that courses
+- Some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc.
+- Deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
+
 
 <br />
 
