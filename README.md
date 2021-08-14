@@ -7,10 +7,10 @@
 - 🌱 My Lecture codes in some languages
 - :seedling: Very basic game trials such as Pong game with Python's turtle module
 - :deciduous_tree: Quiz and GUI applications in Java
-- Some Xamarin mobile applications which we code in our lecture
-- My Coursera and Udemy Courses' codes and some projects that belong to that courses
-- Some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc.
-- Deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
+- :palm_tree: Some Xamarin mobile applications which we code in our lecture
+- :fallen_leaf: My Coursera and Udemy Courses' codes and some projects that belong to that courses
+- :evergreen_tree: Some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc.
+- :cactus: Deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
 
 
 <br />
