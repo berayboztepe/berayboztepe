@@ -1,6 +1,6 @@
 ## Hi, I am Beray. 
 
-#### I have graduated from Computer Engineering department at Canakkale Onsekiz Mart University. I have finished my Erasmus+ Project in Poland. The university which I was studying is Politechnika Lubelska. I am interested in Machine Learning, Data Science, Computer Vision.
+#### I have graduated from Computer Engineering department at Canakkale Onsekiz Mart University. I have finished my Erasmus+ Project in Poland. The university which I was studying is Politechnika Lubelska. I am interested in Machine Learning, Data Science, Computer Vision. Currently, I am working as a Game Developer.
 
 
 - 🔭 Here, you may see my Python's Face recognition library project
