@@ -16,9 +16,9 @@
 
 ## Publishings
 - In order to see first published article, check out the link. This is about detecting the environmental sounds by using deep learning in a video. The publishing is in Turkish language. Translation to English will be available soon in the Github page.
--    - Link: https://www.set-science.com/manage/uploads/ISAS2022_0088/SETSCI_ISAS2022_0088_0011.pdf
+   - Link: https://www.set-science.com/manage/uploads/ISAS2022_0088/SETSCI_ISAS2022_0088_0011.pdf
 - The second published article will be available on 30th August. This is about getting parts of a video where the most action happens by detecting deep learning and concanate these parts as a new video. Later, the environment have been detected by using environmental sound recognition and NLP, NER techniques. Also, sentiment analysis have been used to determine the sentiment of a speech in a video, if there is. 
--    - In order to see details and try the built model: https://github.com/berayboztepe/AVESA
+   - In order to see details and try the built model: https://github.com/berayboztepe/AVESA
 
 <br />
 
