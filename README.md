@@ -4,14 +4,13 @@
 
 
 - 🔭 Here, you may see my Python's Face recognition library project
-- 🌱 My Lecture codes in some languages
-- :seedling: Very basic game trials such as Pong game with Python's turtle module
-- :deciduous_tree: Quiz and GUI applications in Java
-- :palm_tree: Some Xamarin mobile applications which we code in our lecture
-- :fallen_leaf: My Coursera and Udemy Courses' codes and some projects that belong to that courses
-- :evergreen_tree: Some code exercise solutions such as Project Euler, HackerRank, DailyCodingProblem etc.
-- :cactus: Deep learning projects (keras and tensorflow) which I did during my Erasmus+ Program.
-- :seedling: Also, codes and explanations for articles we have done as finishing projects and published by using Deep Learning and etc..
+- 🌱 Categorical and Binary classification models using deep learning
+- :seedling: Very basic Pong game trial with Python's turtle module
+- :deciduous_tree: Quiz and GUI applications in Java and GUI application for data analysis project with using MATLAB
+- :palm_tree: Machine Learning project to build the best classification model
+- :fallen_leaf: Some regression models' codes without using any library.
+- :evergreen_tree: Some code challenge solutions such as Project Euler, HackerRank, DailyCodingProblem.
+- :seedling: Also, codes and explanations for articles we have done as finishing projects and published by using Deep Learning and etc.
 
 
 ## Publishings
