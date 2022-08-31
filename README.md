@@ -19,7 +19,7 @@
    - Translation Link (English): https://berayboztepe.github.io/SETSCI_Article_English/
 - The second published article will be available on 30th August. This is about getting parts of a video where the most action happens by detecting deep learning and concanate these parts as a new video. Later, the environment have been detected by using environmental sound recognition and NLP, NER techniques. Also, sentiment analysis have been used to determine the sentiment of a speech in a video, if there is. 
    - In order to see details and try the built model: [https://github.com/berayboztepe/AVESA](https://berayboztepe.github.io/AVESA/)
-   - Link for the article: http://saucis.sakarya.edu.tr/en/pub/saucis/article/1139765
+   - Link for the article: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1139765
 
 <br />
 
