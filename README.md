@@ -21,6 +21,9 @@
    - In order to see details and try the built model: [https://github.com/berayboztepe/AVESA](https://berayboztepe.github.io/AVESA/)
    - Link for the article: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1139765
 
+
+Here is my personal website: https://berayboztepe.com
+
 <br />
 
 ## Connect With Me
