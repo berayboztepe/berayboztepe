@@ -1,6 +1,6 @@
 ## Hi, I am Beray. 
 
-#### I have graduated from Computer Engineering department at Canakkale Onsekiz Mart University. I have attended to the Erasmus+ Project in Poland, Politechnika Lubelska. I am study my Data Science MSc degree in University of Wrocław. Please check my website to know more about me.
+#### I graduated from Computer Engineering department at Canakkale Onsekiz Mart University. I attended to the Erasmus+ Project in Poland, Politechnika Lubelska. I am studying my Data Science MSc degree in University of Wrocław. Please check my website to know more about me.
 
 
 - 🔭 Here, you may see my Python's Face recognition library project
