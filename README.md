@@ -14,12 +14,14 @@
 
 ## Connect With Me
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Contact" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" alt="codeSTACKr | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][research_gate]
 [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][google_scholar]
 
 [linkedin]: https://www.linkedin.com/in/emre-beray-boztepe-ba246b1b0/
 [research_gate]: https://www.researchgate.net/profile/Emre-Boztepe
 [google_scholar]: https://scholar.google.com/citations?user=_GjBENAAAAAJ&hl=tr
+[mail]: mailto:berayboztepe@outlook.com
 
 <br />
 
