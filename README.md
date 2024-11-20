@@ -8,7 +8,7 @@
 
 - 🔭 I am very passionate about artificial intelligence and I am always exploring new projects within this transformative field.
 - 🧩 2 years of professional experience as a Unity Developer, including 1 year as a Game Developer.
-- 📜 Completed my bachelor’s thesis in AI, focusing on [Multimodal Deep Learning, Association Rule Mining, Named Entity Recognition, Natural Language Processing].
+- 📜 Completed my bachelor’s thesis in AI, focusing on Multimodal Deep Learning, Association Rule Mining, Named Entity Recognition, Natural Language Processing. [Details](https://github.com/berayboztepe/AVESA)
 - 📜 Currently working on my master’s thesis.
 - 🌐 Check out my [website](https://berayboztepe.com) for more details about my projects, research, and experience.
 
